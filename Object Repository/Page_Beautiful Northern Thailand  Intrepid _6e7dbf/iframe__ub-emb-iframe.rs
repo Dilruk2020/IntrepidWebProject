@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe__ub-emb-iframe</name>
+   <tag></tag>
+   <elementGuidId>da9a52ce-8e66-477f-9dd4-a24f55b6cd7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/div/iframe</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>iframe.ub-emb-iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ub-emb-iframe</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//bc5bc9f8284244ad82055159e6a977f3.pages.ubembed.com/2100e9dd-449e-4eb1-bfa9-27a9bd55356d/a.html?closedAt=0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js wf-ubuntu-n4-active wf-ubuntu-n7-active wf-ubuntu-n3-active wf-ubuntu-n5-active wf-opensans-n7-active wf-opensans-i4-active wf-opensans-n3-active wf-opensans-n4-active wf-opensans-n6-active wf-active&quot;]/body[@class=&quot;html not-front not-logged-in one-sidebar sidebar-first page-node page-node- page-node-9040 node-type-peak-product i18n-en-ca ng-scope&quot;]/div[@class=&quot;ub-emb-container&quot;]/div[1]/div[@class=&quot;ub-emb-overlay ub-emb-visible&quot;]/div[@class=&quot;ub-emb-scroll-wrapper&quot;]/div[@class=&quot;ub-emb-iframe-wrapper ub-emb-visible&quot;]/iframe[@class=&quot;ub-emb-iframe&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/iframe</value>
+   </webElementXpaths>
+</WebElementEntity>
